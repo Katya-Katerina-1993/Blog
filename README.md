@@ -1,5 +1,11 @@
-# Blog
-Practice working with the API. Communication with the server. Async/await.
+# Блог
+Практика работы с API. Общение с сервером. Асинхронность (Async/await).
 
-Practice working with the API. Communication with the server. Async/await.
-Styled with bootstrap library.
+Данный блог создан при взаимодействии с API. В работе используется синтаксис промисов.
+Реализован  постраничный список статей из API. При клике по названию статьи открывается страница статьи с заголовком, самой статьей и комментариями к ней.
+Стилизовано с помощью библиотеки Бутстрап.
+
+
+![articles-list](https://user-images.githubusercontent.com/110754881/221089180-2dade98a-4065-46a5-aadc-9867931087d1.png)
+
+![article-page](https://user-images.githubusercontent.com/110754881/221089195-0527742c-9902-494f-ae09-43b7b904d8fa.png)
